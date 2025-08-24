@@ -35,7 +35,7 @@ Follow these steps to set up and run the WellMate Chatbot locally using Docker C
 *   Docker and Docker Compose installed on your system.
 *   A Groq API Key.
 *   A Pinecone API Key and environment.
-*   A Supabase project with appropriate table setup for guest data.
+*   A Supabase project with appropriate table setup .
 
 ### Environment Variables
 
