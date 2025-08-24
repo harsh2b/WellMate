@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-pinecone
+langchain-huggingface
+langchain-community
+pydantic
+python-dotenv
+starlette
+supabase
+pinecone-client
+sentence-transformers
+itsdangerous
+gunicorn
+

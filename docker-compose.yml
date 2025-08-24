@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  wellmate:
+    container_name: wellmate-app
+    image: wellmate-app-image # Explicitly name the image
+    build:
+      context: .
+    restart: always
+    env_file:
+      - ./.env
+    ports:
+      - "8083:8000"
